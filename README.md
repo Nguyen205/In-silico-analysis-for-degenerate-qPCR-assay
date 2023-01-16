@@ -1,4 +1,4 @@
-This code is wrote for evaluation of accuracy of degenerate (or multiple) PCR assays.
+This code is written for evaluation of accuracy of degenerate (or multiple) PCR assays.
 
 The users can enter sequences for (1) a degenerate PCR assay and (2) target genome sequences. 
 
